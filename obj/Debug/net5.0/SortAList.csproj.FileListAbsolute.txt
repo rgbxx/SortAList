@@ -1,0 +1,16 @@
+C:\Users\tayeb terma\Documents\Projects\SortAList\obj\Debug\net5.0\SortAList.csprojAssemblyReference.cache
+C:\Users\tayeb terma\Documents\Projects\SortAList\obj\Debug\net5.0\SortAList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tayeb terma\Documents\Projects\SortAList\obj\Debug\net5.0\SortAList.AssemblyInfoInputs.cache
+C:\Users\tayeb terma\Documents\Projects\SortAList\obj\Debug\net5.0\SortAList.AssemblyInfo.cs
+C:\Users\tayeb terma\Documents\Projects\SortAList\obj\Debug\net5.0\SortAList.csproj.CoreCompileInputs.cache
+C:\Users\tayeb terma\Documents\Projects\SortAList\bin\Debug\net5.0\SortAList.exe
+C:\Users\tayeb terma\Documents\Projects\SortAList\bin\Debug\net5.0\SortAList.deps.json
+C:\Users\tayeb terma\Documents\Projects\SortAList\bin\Debug\net5.0\SortAList.runtimeconfig.json
+C:\Users\tayeb terma\Documents\Projects\SortAList\bin\Debug\net5.0\SortAList.runtimeconfig.dev.json
+C:\Users\tayeb terma\Documents\Projects\SortAList\bin\Debug\net5.0\SortAList.dll
+C:\Users\tayeb terma\Documents\Projects\SortAList\bin\Debug\net5.0\ref\SortAList.dll
+C:\Users\tayeb terma\Documents\Projects\SortAList\bin\Debug\net5.0\SortAList.pdb
+C:\Users\tayeb terma\Documents\Projects\SortAList\obj\Debug\net5.0\SortAList.dll
+C:\Users\tayeb terma\Documents\Projects\SortAList\obj\Debug\net5.0\ref\SortAList.dll
+C:\Users\tayeb terma\Documents\Projects\SortAList\obj\Debug\net5.0\SortAList.pdb
+C:\Users\tayeb terma\Documents\Projects\SortAList\obj\Debug\net5.0\SortAList.genruntimeconfig.cache

@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\tayeb terma\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\tayeb terma\\.nuget\\packages"
+    ]
+  }
+}
